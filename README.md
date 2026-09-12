@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Aadityamishra001/LEETCODE/tree/master/0258-add-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Aadityamishra001/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [2427-number-of-common-factors](https://github.com/Aadityamishra001/LEETCODE/tree/master/2427-number-of-common-factors) |
 ## Simulation
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Aadityamishra001/LEETCODE/tree/master/0258-add-digits) |
+| [2427-number-of-common-factors](https://github.com/Aadityamishra001/LEETCODE/tree/master/2427-number-of-common-factors) |
 ## Array
 |  |
 | ------- |
@@ -27,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadityamishra001/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Aadityamishra001/LEETCODE/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Aadityamishra001/LEETCODE/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Aadityamishra001/LEETCODE/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
