@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadityamishra001/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Aadityamishra001/LEETCODE/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Aadityamishra001/LEETCODE/tree/master/2427-number-of-common-factors) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Aadityamishra001/LEETCODE/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
