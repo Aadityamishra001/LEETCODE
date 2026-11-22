@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aadityamishra001/LEETCODE/tree/master/0001-two-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadityamishra001/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Aadityamishra001/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Two Pointers
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/Aadityamishra001/LEETCODE/tree/master/1768-merge-strings-alternately) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Aadityamishra001/LEETCODE/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
