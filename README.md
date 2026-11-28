@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Aadityamishra001/LEETCODE/tree/master/0258-add-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Aadityamishra001/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2427-number-of-common-factors](https://github.com/Aadityamishra001/LEETCODE/tree/master/2427-number-of-common-factors) |
+| [3360-stone-removal-game](https://github.com/Aadityamishra001/LEETCODE/tree/master/3360-stone-removal-game) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Aadityamishra001/LEETCODE/tree/master/0258-add-digits) |
+| [3360-stone-removal-game](https://github.com/Aadityamishra001/LEETCODE/tree/master/3360-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
